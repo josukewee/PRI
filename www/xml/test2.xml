@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="notes.xsd">
+  <note>
+    <title jazyk="en">Hate is around</title>
+    <author>pavel</author>
+    <content category="work">Lorem ipsssssssssum dolor sit amet, consectetur adipiscing 7 elit. In sagittis ullamcorper nisl, eget 8 ultricies enim ultrices.</content>
+    <created_at>2024-06-18T22:00:00</created_at>
+    <updated_at>2024-06-18T22:00:00</updated_at>
+  </note>
+</notes>
